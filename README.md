@@ -18,7 +18,7 @@
 
 ## About
 
-A react app that lets you search for github users and provide a summary of their repositories for a specific user. Uses the Context API for state management and React Hooks.
+A react app that lets you search for github users and provide a summary of their repositories for a specific user.
 1. **Github API** - Retrives data using the **Github** API, displaying 30 profiles in one go.
 2. **React Hooks and Context API** - Use for a cleaner state handling throughout the various function based react components.
 3. **Axios** - Use axios to make calls to the mentioned API.
