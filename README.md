@@ -16,7 +16,7 @@
     </a>
 </p>
 
-## GitHub Lookup
+## About
 
 A react app that lets you search for github users and provide a summary for a specific user. Uses the Context API for state management and React Hooks.
 
