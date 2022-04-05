@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="./public/title-icon.svg" align="center" alt="GitHub Lookup Icon" />
- <h1 align="center">Github Lookup v1.0.0</h1>
+ <h2 align="center">Github Lookup v1.0.0</h2>
  <p align="center">search and fetch repositories of github users!</p>
 </p>
 
