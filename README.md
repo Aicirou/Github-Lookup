@@ -4,7 +4,7 @@ A small app build with React that lets you search for any GitHub user and check 
 
 This application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the [Create React App documentation](https://facebook.github.io/create-react-app/docs/) for more information about the bootstrapping process and scripts create-react-app offers.
 
-You can check out the live project by clicking [here](https://github-lookup-2020.netlify.app/).
+You can check out the live project by clicking [here](https://github-finder-aicirou.vercel.app/).
 
 ## Installation
 
