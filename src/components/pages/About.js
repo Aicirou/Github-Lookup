@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <>
-      <h1>Github Finder</h1>
+      <h1>Github Lookup</h1>
       <p>Search and Fetch repositories from Github Users</p>
       <p>Version 1.0.0</p>
 <p>Redesigned with <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="red" xmlns="http://www.w3.org/2000/svg"> 
