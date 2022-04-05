@@ -20,30 +20,34 @@
 
 A react app that lets you search for github users and provide a summary for a specific user. Uses the Context API for state management and React Hooks.
 
-[click here](https://github-finder-aicirou.vercel.app/) for live website.
+1. **Github API** - Retrives data using the **Github** Api, displaying 30 profiles in one go.
+2. **React Hooks and Context API** - Use for a cleaner state handling throughout the various function based react components.
+3. **Axios** - Use axios to make calls to the mentioned api.
+### Live Demo: https://github-lookup-aicirou.vercel.app/
+## Preview
+### Home Page
+![home](https://github.com/Aicirou/Github-Lookup/blob/master/README/homePage.png)
+### Search Users throughout github
+![Search](https://github.com/Aicirou/Github-Lookup/blob/master/README/searchUsers.png)
+### Detailed User Profiles -
+![User](https://github.com/Aicirou/Github-Lookup/blob/master/README/detailedProfile.png) 
+### About the App
+![About](https://github.com/Aicirou/Github-Lookup/blob/master/README/aboutApp.png)
 
-This application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Visit the [Create React App documentation](https://facebook.github.io/create-react-app/docs/) for more information about the bootstrapping process and scripts create-react-app offers.
+## Local Setup & Available Scripts
 
-## Installation
+In the project directory, you can run:
+### `npm install`
+Installs all dependencies required for the app to run
 
-Clone this repository onto your local machine and then install all dependencies using the NPM package manager by running this command in your CLI from the repo root directory:
+### `npm start`
 
-`npm install`
-
-After all dependencies have been installed you can run the app locally in development mode or you can built out the static assets to deploy them on any webserver.
-
-## Run the app in development mode
-
-After installing all dependencies you can run the app on the webpack dev server by running the following command:
-
-`npm start`
-
+Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Build a deployment-ready production build
+The page will reload if you make edits.<br />
+## Learn More
 
-Run this command to build out all of the static assets required for a production deployment:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-`npm run build`
-
-See [this official documentation](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To learn React, check out the [React documentation](https://reactjs.org/).
